@@ -35,8 +35,7 @@ const SITE_CONFIG = {
   // Example (Formspree): "https://formspree.io/f/xxxxxxxx"
   // ---- Forms --------------------------------------------------------
 contactFormEndpoint: "https://formspree.io/f/mvkpqwgn",
-reviewFormEndpoint: "",
-
+reviewFormEndpoint: "https://formspree.io/f/mvkpqwgn",
   // ---- AI Assistant backend -------------------------------------
   // Leave blank to use the built-in safe demo-response system.
   // When ready, point this at your own backend/proxy endpoint that
