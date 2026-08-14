@@ -33,8 +33,9 @@ const SITE_CONFIG = {
   // Replace with a Formspree / FormSubmit / EmailJS endpoint to make
   // forms live. Until then, forms show a friendly confirmation only.
   // Example (Formspree): "https://formspree.io/f/xxxxxxxx"
-  contactFormEndpoint: "",
-  reviewFormEndpoint: "",
+  // ---- Forms --------------------------------------------------------
+contactFormEndpoint: "https://formspree.io/f/mvkpqwgn",
+reviewFormEndpoint: "",
 
   // ---- AI Assistant backend -------------------------------------
   // Leave blank to use the built-in safe demo-response system.
