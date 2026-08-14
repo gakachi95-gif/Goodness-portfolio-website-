@@ -17,7 +17,7 @@ const SITE_CONFIG = {
   email: "dikegoodnessnnenna@gmail.com",
 
   // WhatsApp number in international format, digits only (no + or spaces)
-  whatsapp: "2347082297469",
+  whatsapp: "2347082297468",
   whatsappPrefilledMessage:
     "Hi Goodness, I found your portfolio and I'd like to discuss a website project.",
 
