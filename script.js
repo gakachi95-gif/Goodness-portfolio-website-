@@ -20,7 +20,7 @@ const PORTFOLIO_PROJECTS = [
     description: "Modern roofing website concept focused on lead generation and trust.",
     features: ["Quote request form", "Service areas", "Before/after gallery"],
     palette: ["#3b2412", "#c2703d", "#f2b872"],
-    image: "",
+    image: "assets/images/portfolio/roofing-company-website.jpg",
     link: "#",
   },
   {
@@ -30,7 +30,7 @@ const PORTFOLIO_PROJECTS = [
     description: "Construction website concept showcasing projects, services and credibility.",
     features: ["Project portfolio", "Services overview", "Enquiry form"],
     palette: ["#1a2233", "#3e5c8a", "#eab308"],
-    image: "",
+    image: "assets/images/portfolio/construction-company-website.jpg",
     link: "#",
   },
   {
@@ -40,7 +40,7 @@ const PORTFOLIO_PROJECTS = [
     description: "Restaurant website concept with online menu, gallery and reservations.",
     features: ["Digital menu", "Photo gallery", "Reservation form"],
     palette: ["#2b1408", "#d9622b", "#f4c95d"],
-    image: "",
+    image: "assets/images/portfolio/restaurant-website.jpg",
     link: "#",
   },
   {
@@ -50,7 +50,7 @@ const PORTFOLIO_PROJECTS = [
     description: "Fashion brand website concept with product showcase and modern design.",
     features: ["Product catalogue", "Lookbook layout", "Cart-ready structure"],
     palette: ["#1c1c1c", "#8a8a8a", "#e8e2d8"],
-    image: "",
+    image: "assets/images/portfolio/fashion-brand-website.jpg",
     link: "#",
   },
   {
@@ -60,7 +60,7 @@ const PORTFOLIO_PROJECTS = [
     description: "AI web application dashboard concept with clean UI and smart features.",
     features: ["Chat interface", "Analytics panels", "Dark-mode UI"],
     palette: ["#150e2b", "#7c3aed", "#22d3ee"],
-    image: "",
+    image: "assets/images/portfolio/ai-web-app-dashboard.jpg",
     link: "#",
   },
   {
@@ -70,7 +70,7 @@ const PORTFOLIO_PROJECTS = [
     description: "Restaurant-focused website concept designed to showcase menu highlights and drive orders and reservations.",
     features: ["Menu highlights", "Order/reserve CTA", "Mobile-first layout"],
     palette: ["#2a1810", "#c1440e", "#f6a01a"],
-    image: "",
+    image: "assets/images/portfolio/poka-ribs-restaurant-website.jpg",
     link: "#",
   },
 ];

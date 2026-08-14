@@ -20,7 +20,8 @@ portfolio/
     └── images/
         ├── goodness-hero-portrait.jpg    ← large hero photo (right side of homepage)
         ├── goodness-about-portrait.jpg   ← photo used in the About section
-        └── goodness-avatar-square.jpg    ← small square photo (header logo, contact card, favicon)
+        ├── goodness-avatar-square.jpg    ← small square photo (header logo, contact card, favicon)
+        └── portfolio/                     ← portfolio thumbnail images (6 concept designs, see Section 4)
 ```
 
 Open `index.html` in any browser (double-tap it, or use a browser's
@@ -69,6 +70,14 @@ whatsappPrefilledMessage: "Hi Goodness, I found your portfolio and I'd like to d
 ---
 
 ## 4. How to Add New Portfolio Projects
+
+The 6 projects currently on the site each have a real, custom-designed
+thumbnail image (not a generic placeholder) saved in
+`assets/images/portfolio/`. Each was individually designed to look like an
+actual polished website for that industry — this is what gives the
+portfolio credibility with visitors before you have paid client work to
+show. Replace them with real client screenshots over time as you get them
+(see below).
 
 Open **`script.js`** and find the `PORTFOLIO_PROJECTS` array near the top.
 Add a new object like this:
